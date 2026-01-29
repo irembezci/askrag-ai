@@ -250,12 +250,12 @@ splitter = RecursiveCharacterTextSplitter(
 ### 📌 Main Screen
 The interface can be switched to English from the language selector.
 
-![English home](images/en.png)
+![English home](images/eng.png)
 
 ### 💬 Chat with Documents
 Ask questions about your uploaded documents in English.
 
-![English chat](images/en-chat.png)
+![English chat](images/eng-chat.png)
 
 ### 🌐 Language Change Warning
 When the language is changed, documents must be re-uploaded.
@@ -284,5 +284,6 @@ For questions, please use [GitHub Issues](https://github.com/irembezci/askrag-ai
 - [LangChain](https://langchain.com)  
 - [Streamlit](https://streamlit.io)  
 - [Ollama](https://ollama.ai)  
+
 
 
