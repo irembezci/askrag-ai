@@ -96,6 +96,33 @@ splitter = RecursiveCharacterTextSplitter(
     chunk_overlap=150
 )
 ```
+## 🇹🇷 Türkçe Kullanım Akışı
+
+### 📌 Ana Ekran
+Uygulama varsayılan olarak Türkçe arayüzle açılır.
+
+![Türkçe ana ekran](images/tr.png)
+
+### 📁 Dosya Yükleme
+PDF, DOCX veya TXT dosyalarınızı sürükleyip bırakabilirsiniz.
+
+![Dosya yükleme](images/dosya-yukleme.png)
+
+### 💬 Dokümanlarla Sohbet
+Yüklenen dokümanlar üzerinden doğal dilde sorular sorabilirsiniz.
+
+![Türkçe sohbet](images/tr-chat.png)
+
+### ⏳ Yanıt Oluşturma
+Asistan yanıt üretirken durum bilgisi gösterilir.
+
+![Asistan düşünüyor](images/asistan-dusunuyor.png)
+
+### 🌐 Dil Değiştirme
+Dil değiştirildiğinde dokümanların yeniden yüklenmesi istenir.
+
+![Dil değiştirildi uyarısı](images/dil-degistirme.png)
+
 
 ## 🤝 Katkıda Bulunma
 
@@ -218,6 +245,24 @@ splitter = RecursiveCharacterTextSplitter(
 )
 ```
 
+## 🇬🇧 English Usage Flow
+
+### 📌 Main Screen
+The interface can be switched to English from the language selector.
+
+![English home](images/en.png)
+
+### 💬 Chat with Documents
+Ask questions about your uploaded documents in English.
+
+![English chat](images/en-chat.png)
+
+### 🌐 Language Change Warning
+When the language is changed, documents must be re-uploaded.
+
+![Language change warning](images/language-change.png)
+
+
 ## 🤝 Contributing
 
 1. Fork this repository  
@@ -239,4 +284,5 @@ For questions, please use [GitHub Issues](https://github.com/irembezci/askrag-ai
 - [LangChain](https://langchain.com)  
 - [Streamlit](https://streamlit.io)  
 - [Ollama](https://ollama.ai)  
+
 
