@@ -99,7 +99,7 @@ splitter = RecursiveCharacterTextSplitter(
 
 ## 🤝 Katkıda Bulunma
 
-1. Bu repository'yi fork edin
+1. Bu repository'yi fark edin
 2. Feature branch oluşturun (`git checkout -b feature/AmazingFeature`)
 3. Değişikliklerinizi commit edin (`git commit -m 'Add some AmazingFeature'`)
 4. Branch'inizi push edin (`git push origin feature/AmazingFeature`)
@@ -239,3 +239,4 @@ For questions, please use [GitHub Issues](https://github.com/irembezci/askrag-ai
 - [LangChain](https://langchain.com)  
 - [Streamlit](https://streamlit.io)  
 - [Ollama](https://ollama.ai)  
+
